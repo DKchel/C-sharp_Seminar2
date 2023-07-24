@@ -11,7 +11,7 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число:");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
-// int flag = 0;
+// int flag = 0;                                        -- мой вариант с флагом
 
 // if (num1 == num2 * num2) flag = 1;
 // else if (num2 == num1 * num1) flag = 1;
