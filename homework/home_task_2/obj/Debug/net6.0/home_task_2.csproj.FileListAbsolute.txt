@@ -1,0 +1,15 @@
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.csproj.AssemblyReference.cache
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.AssemblyInfoInputs.cache
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.AssemblyInfo.cs
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.csproj.CoreCompileInputs.cache
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\bin\Debug\net6.0\home_task_2.exe
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\bin\Debug\net6.0\home_task_2.deps.json
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\bin\Debug\net6.0\home_task_2.runtimeconfig.json
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\bin\Debug\net6.0\home_task_2.dll
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\bin\Debug\net6.0\home_task_2.pdb
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.dll
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\refint\home_task_2.dll
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.pdb
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\home_task_2.genruntimeconfig.cache
+C:\Users\KDA\Desktop\C-sharp_seminar2\Tasks\homework\home_task_2\obj\Debug\net6.0\ref\home_task_2.dll
