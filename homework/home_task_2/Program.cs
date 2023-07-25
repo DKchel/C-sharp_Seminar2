@@ -7,6 +7,14 @@ Console.WriteLine("Введите число:");
 
 int num = Convert.ToInt32(Console.ReadLine());
 
+//Не забываем про отрицательные числа
+if (num < 0)
+{
+    num = num * -1;
+}
+
+// Определеляем третью цифру
+
 if (num / 100 < 0) 
 {
     Console.WriteLine($"В числе {num} третьей цифры нет");
